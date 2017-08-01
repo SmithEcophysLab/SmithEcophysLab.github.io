@@ -253,3 +253,14 @@ footer {
     color:#444;
   }
 }
+
+img.resize {
+  max-width:20%;
+  max-height:20%;
+}
+
+img.alignleft {
+	float: left;
+	padding-right: 25px;
+}
+
