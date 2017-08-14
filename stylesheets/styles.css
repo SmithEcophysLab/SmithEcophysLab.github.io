@@ -101,6 +101,11 @@ header {
   position:fixed;
 }
 
+sidebar {
+  width:270px;
+  float:right;
+}
+
 header ul {
   list-style:none;
   height:40px;
